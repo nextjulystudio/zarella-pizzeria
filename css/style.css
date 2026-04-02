@@ -29,4 +29,9 @@ h4 {
 }
 
 
-
+.footnote{
+font-family: "bebas-neue-pro-expanded", sans-serif !important;
+font-weight: 500 !important;
+color: #da3514 !important;
+text-transform: none !important;
+}
